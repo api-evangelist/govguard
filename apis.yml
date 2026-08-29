@@ -11,6 +11,17 @@ description: >-
   Agencies retain full ownership and control of all records and metadata, and
   GovGuard states that it does not train models on client data. The company was
   founded by Aditya Sabharwal and Gleb Hulting and is based in San Francisco.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
